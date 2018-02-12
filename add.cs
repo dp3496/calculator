@@ -8,6 +8,9 @@ public class claci
              b++;
 
 
+d++;
+
+
 	return a+b+c+d;
     }
 }
