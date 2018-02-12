@@ -1,7 +1,7 @@
 public class claci
 {
-    public static void Main(string[] args)
+    public int add(int a,int b,int c)
     {
-
+           return a+b+c;
     }
 }
