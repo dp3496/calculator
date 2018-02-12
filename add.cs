@@ -1,7 +1,8 @@
 public class claci
 {
-	public int add(int a, int b)
+    public int add(int a, int b)
     {
-	return a+b;
+	int c = a+b;
+	return c;
     }
 }
