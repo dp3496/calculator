@@ -6,10 +6,7 @@ public class claci
     {
 
            a++;
-             b++;
-
-
-
+           b++;
 	return a+b+c;
     }
 }
